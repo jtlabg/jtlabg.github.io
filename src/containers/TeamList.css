@@ -1,0 +1,20 @@
+li {
+    list-style: none;
+}
+
+.team-name {
+    text-decoration-color: "secondary";
+}
+
+.player {
+    margin: 3px;
+}
+
+.team-list {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.fullTeam{
+    margin: 10px;
+    overflow-wrap: break-word
+}
